@@ -2,11 +2,11 @@
     {
         "repository":   "SlimRoms/device_samsung_tuna",
         "target_path":  "device/samsung/tuna",
-        "branch":     "lp5.1"
+        "branch":     "mm6.0"
     },
     {
         "repository":  "SlimRoms/omap",
         "target_path": "kernel/samsung/tuna",
-        "branch": "stable"
+        "branch": "mm6.0"
     }
 ]
